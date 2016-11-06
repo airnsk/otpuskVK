@@ -1,0 +1,8 @@
+/staticroot
+/static/css
+/static/font-awesome-4.1.0
+/static/fonts
+/static/less
+*.pyc
+*.sqlite3
+/.idea
